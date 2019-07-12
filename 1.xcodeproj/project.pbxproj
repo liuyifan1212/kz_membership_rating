@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DD5EBFDD22CD4F77004729B6 /* sweet-looking-mid-continent-cabinets-painted-maple-kitchen-from-cabinetry-bath-vanities.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DD5EBFDC22CD4F76004729B6 /* sweet-looking-mid-continent-cabinets-painted-maple-kitchen-from-cabinetry-bath-vanities.jpg */; };
+		DDA2FF5E22D670BB0078FD88 /* traditional salesperson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DDA2FF5D22D670BB0078FD88 /* traditional salesperson.jpg */; };
 		DDB54E7422C3E3FB003E0489 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB54E7322C3E3FB003E0489 /* AppDelegate.swift */; };
 		DDB54E7622C3E3FB003E0489 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB54E7522C3E3FB003E0489 /* ViewController.swift */; };
 		DDB54E7922C3E3FB003E0489 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDB54E7722C3E3FB003E0489 /* Main.storyboard */; };
@@ -14,6 +16,8 @@
 		DDB54E7E22C3E3FD003E0489 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDB54E7C22C3E3FD003E0489 /* LaunchScreen.storyboard */; };
 		DDB54E8922C3E3FD003E0489 /* _Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB54E8822C3E3FD003E0489 /* _Tests.swift */; };
 		DDB54E9422C3E3FD003E0489 /* _UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDB54E9322C3E3FD003E0489 /* _UITests.swift */; };
+		DDE6B45622CBD2C90099F2E6 /* 4e0b5bbf-70e3-4c75-bb3f-38641ebbc1f8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DDE6B45522CBD2C80099F2E6 /* 4e0b5bbf-70e3-4c75-bb3f-38641ebbc1f8.jpg */; };
+		DDE6B45822CC11900099F2E6 /* logoland.png in Resources */ = {isa = PBXBuildFile; fileRef = DDE6B45722CC11900099F2E6 /* logoland.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DD5EBFDC22CD4F76004729B6 /* sweet-looking-mid-continent-cabinets-painted-maple-kitchen-from-cabinetry-bath-vanities.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "sweet-looking-mid-continent-cabinets-painted-maple-kitchen-from-cabinetry-bath-vanities.jpg"; path = "../../sweet-looking-mid-continent-cabinets-painted-maple-kitchen-from-cabinetry-bath-vanities.jpg"; sourceTree = "<group>"; };
+		DDA2FF5D22D670BB0078FD88 /* traditional salesperson.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "traditional salesperson.jpg"; path = "../../traditional salesperson.jpg"; sourceTree = "<group>"; };
 		DDB54E7022C3E3FA003E0489 /* 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDB54E7322C3E3FB003E0489 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDB54E7522C3E3FB003E0489 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +53,8 @@
 		DDB54E8F22C3E3FD003E0489 /* 1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = 1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDB54E9322C3E3FD003E0489 /* _UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _UITests.swift; sourceTree = "<group>"; };
 		DDB54E9522C3E3FD003E0489 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDE6B45522CBD2C80099F2E6 /* 4e0b5bbf-70e3-4c75-bb3f-38641ebbc1f8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "4e0b5bbf-70e3-4c75-bb3f-38641ebbc1f8.jpg"; path = "../../4e0b5bbf-70e3-4c75-bb3f-38641ebbc1f8.jpg"; sourceTree = "<group>"; };
+		DDE6B45722CC11900099F2E6 /* logoland.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logoland.png; path = ../../logoland.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +105,13 @@
 		DDB54E7222C3E3FA003E0489 /* 1 */ = {
 			isa = PBXGroup;
 			children = (
+				DDE6B45522CBD2C80099F2E6 /* 4e0b5bbf-70e3-4c75-bb3f-38641ebbc1f8.jpg */,
 				DDB54E7322C3E3FB003E0489 /* AppDelegate.swift */,
 				DDB54E7522C3E3FB003E0489 /* ViewController.swift */,
 				DDB54E7722C3E3FB003E0489 /* Main.storyboard */,
+				DDA2FF5D22D670BB0078FD88 /* traditional salesperson.jpg */,
+				DD5EBFDC22CD4F76004729B6 /* sweet-looking-mid-continent-cabinets-painted-maple-kitchen-from-cabinetry-bath-vanities.jpg */,
+				DDE6B45722CC11900099F2E6 /* logoland.png */,
 				DDB54E7A22C3E3FD003E0489 /* Assets.xcassets */,
 				DDB54E7C22C3E3FD003E0489 /* LaunchScreen.storyboard */,
 				DDB54E7F22C3E3FD003E0489 /* Info.plist */,
@@ -229,9 +241,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DDE6B45822CC11900099F2E6 /* logoland.png in Resources */,
 				DDB54E7E22C3E3FD003E0489 /* LaunchScreen.storyboard in Resources */,
+				DD5EBFDD22CD4F77004729B6 /* sweet-looking-mid-continent-cabinets-painted-maple-kitchen-from-cabinetry-bath-vanities.jpg in Resources */,
+				DDE6B45622CBD2C90099F2E6 /* 4e0b5bbf-70e3-4c75-bb3f-38641ebbc1f8.jpg in Resources */,
 				DDB54E7B22C3E3FD003E0489 /* Assets.xcassets in Resources */,
 				DDB54E7922C3E3FB003E0489 /* Main.storyboard in Resources */,
+				DDA2FF5E22D670BB0078FD88 /* traditional salesperson.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
